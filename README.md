@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ferias-virtuales
 
 ## Project setup
@@ -22,3 +23,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# PrototipoFeriasVirtuales
+Prototipo de Ferias Vrituales creado con VueJS
+>>>>>>> c5f8745f1ab113bffa1c18fc2036028fe164de04
